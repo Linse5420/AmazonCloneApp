@@ -1,70 +1,8 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This is a clone appliaction of amazon that i created only to showcase my skills as a developer to my employers because of getting rejected due to lack of experience. I have created this application Using ReactNative, javascript, javs, html and css. I have used firebase for user authentication and have activated authentication by email and password. The app is not published due to copyright and all copyrights goes with amazon.
+If you want to know more,the detailed video of me explaining the app is also here, https://stlawrencecollege.sharepoint.com/sites/combinedstudy/Shared%20Documents/General/Recordings/View%20Only/Meeting%20in%20_General_-20220612_002541-Meeting%20Recording.mp4?web=1 
+![Picture2](https://user-images.githubusercontent.com/74924870/173253469-e225ee86-b3f0-4cde-a63e-aef121a8b40f.png)
+![Picture3](https://user-images.githubusercontent.com/74924870/173253475-873b0616-2ad2-4848-9b0d-f92ed3c0cca3.png)
+![Picture1](https://user-images.githubusercontent.com/74924870/173253489-eaeaf844-60a6-4448-9452-678861934c89.png)
+![Picture4](https://user-images.githubusercontent.com/74924870/173253495-e107fb5c-e263-4646-8a41-ccb53ebd7dbf.png)
+![Picture5](https://user-images.githubusercontent.com/74924870/173253498-8a83acf1-a511-45ee-a0b5-d2cdf7ada372.png)
+![Picture6](https://user-images.githubusercontent.com/74924870/173253504-880b3fcb-61c0-4064-b6ee-81ccc07943ad.png)
