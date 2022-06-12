@@ -1,0 +1,29 @@
+.checkout_buttom
+{
+    max-width:40%;
+    align-self: center;
+    display:flex;
+    margin: 12px;
+    background-color: #f0c14b;
+    border:1px solid;
+    border-color:  #a88734 #9c7e31 #846a29;
+}
+.subtotal
+{
+    padding: 3em;
+    display:flex;
+    margin:3em;
+    flex-direction: column;
+    justify-content: space-between;
+    width:300px;
+    height:100px;
+    border: 1px solid black;
+    border-radius: 4px;
+    background-color:lightgray;
+}
+.subtotal_gifts
+{
+display: flex;
+margin: 5px;
+
+}
