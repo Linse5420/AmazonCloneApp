@@ -6,3 +6,6 @@ If you want to know more,the detailed video of me explaining the app is also her
 ![Picture4](https://user-images.githubusercontent.com/74924870/173253495-e107fb5c-e263-4646-8a41-ccb53ebd7dbf.png)
 ![Picture5](https://user-images.githubusercontent.com/74924870/173253498-8a83acf1-a511-45ee-a0b5-d2cdf7ada372.png)
 ![Picture6](https://user-images.githubusercontent.com/74924870/173253504-880b3fcb-61c0-4064-b6ee-81ccc07943ad.png)
+![Picture9](https://user-images.githubusercontent.com/74924870/173253702-b1ce5e6a-0a4d-4d00-986b-3ceaa5a776db.png)
+![Picture7](https://user-images.githubusercontent.com/74924870/173253706-33275470-b148-4313-8475-f1b1aa8f99f2.png)
+![Picture8](https://user-images.githubusercontent.com/74924870/173253709-87b595aa-7fcd-4e7e-8ce9-b52acba2b27f.png)
